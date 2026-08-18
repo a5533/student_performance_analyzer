@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 
-# --- HARDCODE YOUR EXACT EXCEL FILE PATH HERE ---
+# --- HARDCODE YOUR EXACT EXCEL FILE PATH HERE -----
 # (Keep the 'r' before the string so Windows backslashes don't cause errors)
 file_path = r"C:\Users\91770\Downloads\Student_Grade_Management_1.xlsx"
 
